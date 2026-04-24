@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# JAR files (optional - your professor wants the JAR on GitHub so this is commented out)
+# *.jar
+
+# OS files
+.DS_Store
+Thumbs.db
